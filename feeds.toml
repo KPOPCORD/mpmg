@@ -7,3 +7,13 @@ linkSelector = "a"
 imageSelector = "div.thumb.img"
 contentSelector = "div.boardCaptionBody"
 waitUntil = "networkidle"
+
+[shows]
+title = "MPMG MUSIC ─ SHOWS"
+url = "https://mpmgmusic.com/shows"
+entrySelector = "div.item-element div.boardPostWrapper.boardGridWrapper"
+titleSelector = "div.boardCaptionTitle"
+linkSelector = "a"
+imageSelector = "div.thumb.img"
+contentSelector = "div.boardCaptionBody"
+waitUntil = "networkidle"
