@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 19:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 19:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3710,6 +3710,346 @@
             <pubDate>Wed, 15 Sep 2021 18:51:00 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M's Diary #2 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32367638&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32367638&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMTgw/MDAxNjMxNTg4MzEyMTQy.MmURwmdTz2HI_ywKC7HV1HIK47Mewt043xGjj_ofFEwg.Gg4Lf4XtV0ec0xJG6r9NDDRDM3LEXRSmEGfIVoDx9I8g.JPEG/IEjsduhGRdDZ6WyS1vXoUQ5HFdK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #2] 멜로망스 - 부끄럼 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32321815&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32321815&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfNDAg/MDAxNjMwOTk5NjY5MTQz.u7NDSi-MDQmTqjmPpF94-ydDS7RUCkNonPoFubX7w2og.0GbpyR-oBMNjVHjNFggErdqFvRv6swMsoo3LftaI2rUg.JPEG/IL_vsvozxQ8bYm7MF5avVRlzh_Nc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #1] 쏜애플 - 서울 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32238445&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32238445&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfNjMg/MDAxNjI5MTY0NzUyMjM0.lBiu_cRInPwPMmD_zwSyABWGHywBLorWBBkThcgzDosg.CUJKe0Iz_85-jl_4rxIrDBuJ3yw4nqreC8Z0bJmdIi8g.JPEG/I_qhQ9eEVk6s26haYYeqK8nfm2NQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M’s Diary #1 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32223952&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32223952&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjNfMTYw/MDAxNjI5NzEwNjA3NzI2.RZpPej1vX_8SrHsUp251ti085zNXCAfgHvKU2Xx8AaYg.tUdEqXC05qafRyEbCT3TlyB5s5TLoTpcetGRuoa8tzYg.JPEG/IHj1UK8pPKG4jW8g0ElAq1yrW_og.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 곱나쇼 한 눈에 보기 / 카드뉴스 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31816690&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31816690&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMTI1/MDAxNjI0MzU4MDkwNjEz.qQU4ZLO520N56wEsKPu4PYPZ-SEbtmvsI22Zm9WxgMUg.b8eFDRHom2LHgJaokxMeathk4E7pvdFMHsk9WN0ka20g.PNG/IEgeP0Df1RgmyMRjBB76J0wZ73Ws.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트는 공연 때 저녁으로 뭘 먹을까? 곱나쇼에 관한 소소한 TMI 9가지! (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31754738&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31754738&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTVfMTU0/MDAxNjIzNzU0MjM4NTYz.WRxrGJC9D6d_RlBuGvWs_rsI8503gbwtt28GgdHOhyUg.QDTQbdmKa7AwFhAIMx7Fn6Ai7ZUf8ZhorqW8UPmgxUsg.JPEG/IJ7mPAp68C233Xx-VFjpzWjPYi3c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR(아월) - [can't] KoreanIndie 앨범 리뷰 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31574312&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31574312&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjRfMjMw/MDAxNjIxODM5NzQ0NzQ5.ZVk23uCUvYJ1ZQfoiYgprkYs4WtHOEITj6QEc7nl1nAg.hXK7FApJ7yU_rMrA-hHnKn1FTi1p7JIHCwkDETCpPBIg.JPEG/INJcx4_nt4bHrXzfRLHH4sWIcbnI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모순이 무너뜨린 기대, OurR의 [can't] 라이브클립 촬영 비하인드 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31503867&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31503867&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTNfNjYg/MDAxNjIwODg1NDczMTEy.siYlQdi_JuM6aXqTl6IoQLKmL-C6C226zvSeeHrdIEkg.blFCOBKVjiwivSl1zOehvbYlFE8MPOT5I8XTVP_KWd0g.JPEG/IA8yG2dVyQasjhRWGUDBQd8AkUpc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상X데이브레이크X김이나, 말이 안 되는 세 아티스트의 재회 '말 되지 않을 건 없잖아' (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31374007&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31374007&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjhfNDgg/MDAxNjE5NjAxNjAzNjc0.1QmrPBVN0tJkMh1NHLYQsSWHHjs1xdVMCz_1wjm84Tog.IN7rfksXXw7wRfva8HuQ7f1HhOcEHffJJ_tr_7Uk-IQg.JPEG/I4EvaZ43pC7q90FLJtplohBejzT4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이X데이가 만났다! 데이브레이크XDAY6 Young K, '도망가자' 라이브 촬영 현장 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30420319&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30420319&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDdfMzcg/MDAxNjEwMDAzMDgzMTk4.iqMYsTBbsZd66d3zn3TQ2a0GAwzfiFJT1MOFhGj2iRAg.7gCQCjIt2qarGDQZB2ZrqeuomZL3pIt2H53oxClIBCcg.JPEG/IBA8Hac2auud4bQBdRXDw0FfQAXo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[띵동! 수능 응원 메세지가 도착했습니다 (from. 해피로봇레코드) (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30127059&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30127059&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201202_13/6feF6_1606894924523zIQ3H_PNG/1606894570140.png?type=f880_495_blend&imageType=video" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1000명을 만날때까지, 데이브레이크 곱나쇼 :몇 배 더 즐거움을 함께 나누자 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29889725&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29889725&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDVfMjQg/MDAxNjA0NTY0OTEzMzYz.KFX34ohtSMJRYYwUyqkNQNpKiMcL2TD6rJGGdFgvzLIg.rKI9j_3-p2VxWgpbLpW_GN_A_KUu1FE1l-NdkgRaGsQg.JPEG/I_7k5a1u8Velix8PDLCNGu4utAmQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 이야기가 노래로? 데이브레이크와 SURL의 특별한 응원 <널 위한 응원가> (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29781736&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29781736&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMTU3/MDAxNjAzMzU0Nzk4MTcz.gZy6R4IlIxCfOCGAAxdtJi9PtVQEzznIOlWA-20W6KMg.TIV3BpHqAnOPt_Ugd4pULmXLthORDOCvDhY4TCeLAd0g.JPEG/IexXT6UsPDhXg_MjBLecSBTYxAec.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THORNAPPLE (쏜애플) - K!World Magazine Interview (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29362472&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29362472&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDdfMzIg/MDAxNTk5NDYyNzk4OTQ1.igi8qi8wCHFFA9pSK60wRClTTt2neV0YfN1fiVFfG8Ug.Xt5Tjs2gPQes16u2y1jzPbRdyWr4e9fcVIrvf-_-KWIg.JPEG/IMylJMkrdMZEbxfD9EQj4qew1RxY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 커스텀인이어 제작기 (Ultimate Ears) (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29283965&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29283965&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjZfMjgz/MDAxNTk4NDM2NjUwNzIz.d-k2x5AfbBtKKot3x6aJSvmIiEsT97CIxMmLcyKufGYg.-gJ_g8vt2efjyYkRxJgT97mffIYUpQsQTpVZnsH4sRsg.PNG/IXF-lyRXsTYY-g_eTo158iPTkVx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피로봇 PICK] 방구석 꿀잼 콘텐츠 ★ (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28400615&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28400615&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjhfMTYz/MDAxNTkwNjQ3NTQ5MjYy.8Ih85of0fqcvGiYD3lvPfmtDbUFHvDZ4J51X__l1QQsg.YwcHCJSQu1bB567hqjXDTegM4nNEX5F8san-XIa__kIg.JPEG/Iqd9tLlipB_kSL1TM3-LdClF3OaU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란의 스페셜 콘텐츠
+촬영 현장 비하인드! (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28076811&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28076811&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjNfMzMg/MDAxNTg3NjIxOTM5MDY4.E6CdPVtAWnRX1pXaCeKQKd-m_82M21FkKn8zpgDclLog.5ZRLBfGIF83fOGDzHBtZVBpc9seRYaoux8HduGXBPCkg.JPEG/IAISzw7RT_klCDRSGtckDyejKaAE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄이 좋냐?? 난 소란이 좋다♥ 
+소란의 유스케 대기실 
+비하인드! (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28035315&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28035315&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjBfMjQ4/MDAxNTg3MzQ5MjY3NDcx.I2HZzQyXJ86StWD9_115vTzwz1IBMg5qFXYVXcga6tsg.N1Ef8p9fIt0n5FrrYBd6DFjTB8hzULQYlqU97JVdQq8g.JPEG/Itzv7mZi0g6ZaHzZ8DLTikkEvngE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['슬기로운 의사생활'로 보는 <넌 언제나> 역대 커버 모음집 (데이브레이크, 조정석 등) (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28106811&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28106811&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjdfMTY3/MDAxNTg3OTY2MTU3ODIw.qjL-TN8D3aoDp3GNYMgdR-BRTyRScCmlZ1nLARE3NJ4g.HuVqmFxM3J9IxCdob1LbfrDyoMqyQyD1NqCuanuNLxQg.PNG/IyFplviEL-md1NI6_SZzj9kOiIoA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복면가왕 5주년 특별 심사위원이 된 걸리버 이원석! (feat. 데이브레이크 - 좋다) (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28030851&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28030851&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MTlfMjIw/MDAxNTg3MjkwMTkwNzcw.9gvYJBM7GfiFQ8yej5Y5zx5575C-vg2P43EJz0Azw1Ig.gm5Z-lIySM19G5ZjsVD3HPGbPERtt4y_eB1rQzfqsa4g.PNG/I3bWO4KGZFl4SWTERRDTva7jlOS8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란X슈가맨으로 완성된 
+음악 추억 여행 라라라 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27954350&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27954350&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MTBfMTE2/MDAxNTg2NDQ2ODU5NDY0.7__YdK3HgWT0StBjHSMx0cJJrmgFN9duCB_EOtN_NVog.iCubYv0aJ-mR3QNlqJp5dyAblkjnytraf1pI3DQYsMog.JPEG/IwqIlVrXXeOC9l6MBSsfNaXPrmmU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신에게 기적 같은 하루를 선사할 
+소란데이 2020 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27437614&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27437614&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDVfMjk2/MDAxNTgwODc2NTgxNTA3.dswzC1V9vDTXFBHfEM5RiQnuzbyrEnpEIsSKdMkpF6Eg.P_Y2sq8xlj2DGmT5SHJhqPRQ75jsW0UkuSiLea7Q6NYg.JPEG/IYLtgptzOLhZ3oG7PwVf4-CYHFl4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC1st 소극장 공연 ‘Home (Closer)’ Photo & SETLIST (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27106823&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27106823&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMThfMTc1/MDAxNTc2NjU4Mzg4MTc4._X28w32r4hDxFlYvoJ1uoxGPuM9tR1tqhj-xmZRvybog.WCsHoVnVzUYx831WHJZI2K8IawbHc8BfVOY_hpcjcnMg.JPEG/IUVfMIk-maomMxmrUsfizL6m51Z8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC(램씨) 첫 번째 단독공연 'Home(Closer)'미리보기와 초대 이벤트 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=26817934&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=26817934&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTExMDdfMTc2/MDAxNTczMTAzOTQ3ODEy.Qv_eHf53D5JQHEQkV-iTEMA5b1XZ9w3BFMk967l9EEQg.8HS89MvGGmHQkG7TP9La0FHX3D2AaEFjZRtMYIliba4g.JPEG/Ihg2FWm4ObjdfSW88qd8vRI1DOBw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna(라쿠나) - 마차ㅣSpecial Clip (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-24419733</link>
+            <guid>https://m.vlive.tv/post/1-24419733</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.30.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210730_27/1627638331654H7WNf_PNG/1627638176341.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 BML 2021 직캠 공개❣️ (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-24328088</link>
+            <guid>https://m.vlive.tv/post/0-24328088</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.26.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210726_258/1627289500968vuAq2_JPEG/1627288025385.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BML 2021 하이라이트 🌱 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-24255628</link>
+            <guid>https://m.vlive.tv/post/1-24255628</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.22.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210722_16/162694364494362K0E_PNG/1626941281935.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 영 차 영 차 📈 동학 개미들의 마음을 달래줄 플레이리스트 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-24220571</link>
+            <guid>https://m.vlive.tv/post/1-24220571</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) - SWITCH ON✨비하인드 필름 공개! (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-24151178</link>
+            <guid>https://m.vlive.tv/post/0-24151178</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 하고 싶은거 다해 아니 하지마🔺 | 속삭여줘 (DANG!) (Acoustic Mix) (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23938753</link>
+            <guid>https://m.vlive.tv/post/1-23938753</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.7.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dun Dun Dance Bass Cover | OH MY GIRL 오마이걸 | 베이스 호주머니 (Bass Ho) (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23897860</link>
+            <guid>https://m.vlive.tv/post/1-23897860</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[봄처녀 SPRINGIRLS | 선우정아 SWJA | Cover by Lacuna (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23846604</link>
+            <guid>https://m.vlive.tv/post/0-23846604</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Acoustic Mix) Official M/V (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23645871</link>
+            <guid>https://m.vlive.tv/post/0-23645871</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.22.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) ALBUM PREVIEW | REMIX [Beloved (Acoustic Mix)] (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23642629</link>
+            <guid>https://m.vlive.tv/post/0-23642629</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 비나이다 🙏 나이키 드로우 당첨 기다리면서 듣는 노래 👟 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23639656</link>
+            <guid>https://m.vlive.tv/post/1-23639656</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Acoustic Mix) Official Teaser (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23603713</link>
+            <guid>https://m.vlive.tv/post/1-23603713</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Feat. 몽자) | live at 라이브업 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23435340</link>
+            <guid>https://m.vlive.tv/post/0-23435340</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Feat. 몽자) Stage Mix (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23235673</link>
+            <guid>https://m.vlive.tv/post/1-23235673</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이름에게 Dear Name | IU 아이유 | Cover by Lacuna (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/1-23216540</link>
+            <guid>https://m.vlive.tv/post/1-23216540</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어푸 (Ah Puh) Bass Cover | IU 아이유 | Lacuna 김호 베이스 커버 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23180925</link>
+            <guid>https://m.vlive.tv/post/0-23180925</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SWITCH ON ✨ | SORAN CONCERT (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23143819</link>
+            <guid>https://m.vlive.tv/post/0-23143819</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[평범한 일상도 드라마 속 한 장면처럼🎬 | SORAN PLAYLIST (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23086798</link>
+            <guid>https://m.vlive.tv/post/0-23086798</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 당근이세요..? 🥕 당근 첫 거래 가는 길에 듣는 노래 (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-23009728</link>
+            <guid>https://m.vlive.tv/post/0-23009728</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 있어주면 (Be with me) Stage Mix (MPMG MUSIC ─ Media Board)]]></title>
+            <link>https://m.vlive.tv/post/0-22932185</link>
+            <guid>https://m.vlive.tv/post/0-22932185</guid>
+            <pubDate>Wed, 15 Sep 2021 19:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.18.]]></content:encoded>
         </item>
     </channel>
 </rss>

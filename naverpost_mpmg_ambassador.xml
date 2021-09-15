@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 15 Sep 2021 19:18:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M's Diary #2]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32367638&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32367638&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMTgw/MDAxNjMxNTg4MzEyMTQy.MmURwmdTz2HI_ywKC7HV1HIK47Mewt043xGjj_ofFEwg.Gg4Lf4XtV0ec0xJG6r9NDDRDM3LEXRSmEGfIVoDx9I8g.JPEG/IEjsduhGRdDZ6WyS1vXoUQ5HFdK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #2] 멜로망스 - 부끄럼]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32321815&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32321815&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfNDAg/MDAxNjMwOTk5NjY5MTQz.u7NDSi-MDQmTqjmPpF94-ydDS7RUCkNonPoFubX7w2og.0GbpyR-oBMNjVHjNFggErdqFvRv6swMsoo3LftaI2rUg.JPEG/IL_vsvozxQ8bYm7MF5avVRlzh_Nc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #1] 쏜애플 - 서울]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32238445&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32238445&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfNjMg/MDAxNjI5MTY0NzUyMjM0.lBiu_cRInPwPMmD_zwSyABWGHywBLorWBBkThcgzDosg.CUJKe0Iz_85-jl_4rxIrDBuJ3yw4nqreC8Z0bJmdIi8g.JPEG/I_qhQ9eEVk6s26haYYeqK8nfm2NQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M’s Diary #1]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32223952&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32223952&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Sep 2021 19:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjNfMTYw/MDAxNjI5NzEwNjA3NzI2.RZpPej1vX_8SrHsUp251ti085zNXCAfgHvKU2Xx8AaYg.tUdEqXC05qafRyEbCT3TlyB5s5TLoTpcetGRuoa8tzYg.JPEG/IHj1UK8pPKG4jW8g0ElAq1yrW_og.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
