@@ -17,3 +17,13 @@ linkSelector = "a"
 imageSelector = "div.thumb.img"
 contentSelector = "div.boardCaptionBody"
 waitUntil = "networkidle"
+
+[academy]
+title = "MPMG MUSIC ─ ACADEMY"
+url = "https://mpmgmusic.com/academy"
+entrySelector = "div.item-element div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+imageSelector = "div.thumb.img"
+contentSelector = "span.productPriceSpan"
+waitUntil = "networkidle"
