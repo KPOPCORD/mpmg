@@ -1,9 +1,0 @@
-[music]
-title = "MPMG MUSIC ─ MUSIC"
-url = "https://mpmgmusic.com/music"
-entrySelector = "div.item-element div.boardPostWrapper.boardGridWrapper"
-titleSelector = "div.boardCaptionTitle"
-linkSelector = "a"
-imageSelector = "div.thumb.img"
-contentSelector = "div.boardCaptionBody"
-waitUntil = "networkidle"
