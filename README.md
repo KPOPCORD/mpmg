@@ -9,3 +9,7 @@ https://kpopcord.github.io/mpmg/store_merchandise.xml
 https://kpopcord.github.io/mpmg/store_music.xml  
 
 ## NAVER POST
+https://kpopcord.github.io/mpmg/naverpost_mpmg_ambassador.xml  
+https://kpopcord.github.io/mpmg/naverpost_mpmg_weeklyreply.xml  
+https://kpopcord.github.io/mpmg/naverpost_mpmg_ghs.xml  
+https://kpopcord.github.io/mpmg/naverpost_mpmg_happyrobot.xml  
