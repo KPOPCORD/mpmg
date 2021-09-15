@@ -27,3 +27,33 @@ linkSelector = "a"
 imageSelector = "div.thumb.img"
 contentSelector = "span.productPriceSpan"
 waitUntil = "networkidle"
+
+[store_artist]
+title = "MPMG MUSIC ─ STORE ─ ARTIST"
+url = "https://mpmgmusic.com/shop_artist"
+entrySelector = "div.item-element div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+imageSelector = "div.thumb.img"
+contentSelector = "span.productPriceSpan"
+waitUntil = "networkidle"
+
+[store_merchandise]
+title = "MPMG MUSIC ─ STORE ─ MERCHANDISE"
+url = "https://mpmgmusic.com/shop_merchandise"
+entrySelector = "div.item-element div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+imageSelector = "div.thumb.img"
+contentSelector = "span.productPriceSpan"
+waitUntil = "networkidle"
+
+[store_music]
+title = "MPMG MUSIC ─ STORE ─ MUSIC"
+url = "https://mpmgmusic.com/shop_music"
+entrySelector = "div.item-element div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+imageSelector = "div.thumb.img"
+contentSelector = "span.productPriceSpan"
+waitUntil = "networkidle"
