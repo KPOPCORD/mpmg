@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 18:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 18:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1606,6 +1606,14 @@
             <pubDate>Wed, 15 Sep 2021 18:39:43 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534204900_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPMG ACADEMY - CONCERT & FESTIVAL (마감) (MPMG MUSIC ─ ACADEMY)]]></title>
+            <link>https://mpmgmusic.com/product/mpmgacademy</link>
+            <guid>https://mpmgmusic.com/product/mpmgacademy</guid>
+            <pubDate>Wed, 15 Sep 2021 18:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[1,100,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
