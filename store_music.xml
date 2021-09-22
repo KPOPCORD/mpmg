@@ -1,8 +1,531 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mpmgmusic.com/shop_music</id>
-    <title>MPMG MUSIC ─ STORE ─ MUSIC</title>
-    <updated>2021-09-22T19:04:31.550Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://mpmgmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ STORE ─ MUSIC</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Sep 2021 20:04:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LambC(램씨) LP [I'll see you when I see you] 바이닐 | LambC LP [I'll see you when I see you] Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/LMC-210804-LP</link>
+            <guid>https://mpmgmusic.com/product/LMC-210804-LP</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1628129064097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동환 (멜로망스) 피아노 소품집 [White] | Jeong DongHwan (MeloMance) Piano Album [White]]]></title>
+            <link>https://mpmgmusic.com/product/JDH-210624-CD</link>
+            <guid>https://mpmgmusic.com/product/JDH-210624-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623925994040_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 EP [Beloved] | SORAN EP [Beloved]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-210419-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-210419-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240847348_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이유나 (J.UNA) EP [Discovery] l J.UNA EP [Discovery]]]></title>
+            <link>https://mpmgmusic.com/product/JYN-210210-CD</link>
+            <guid>https://mpmgmusic.com/product/JYN-210210-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623141936880_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 싱글 [말이 안 되잖아] | daybreak Single [Doesn't Make Sense]]]></title>
+            <link>https://mpmgmusic.com/product/DB-210202-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-210202-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240472473_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) EP [Hello, Wonderland] | Lacuna EP [Hello, Wonderland]]]></title>
+            <link>https://mpmgmusic.com/product/LCN-201119-CD</link>
+            <guid>https://mpmgmusic.com/product/LCN-201119-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620564932352_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #9] 컴필레이션 앨범 | Mint Paper [bright #9] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-200910-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-200910-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622530938239_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 EP [소행성] | Lee MinHyuk 2nd EP [Asteroid]]]></title>
+            <link>https://mpmgmusic.com/product/LMH-200726-CD</link>
+            <guid>https://mpmgmusic.com/product/LMH-200726-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241889943_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조소정 EP [Scene] | Jo SoJeong 2nd EP [Scene]]]></title>
+            <link>https://mpmgmusic.com/product/JSJ-200709-CD</link>
+            <guid>https://mpmgmusic.com/product/JSJ-200709-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621242170199_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 EP [LOAD] | THE SOLUTIONS EP [LOAD]]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-200603-CD</link>
+            <guid>https://mpmgmusic.com/product/SLTN-200603-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621238449789_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권순관 2집 [Connected] | Kwon Soonkwan 2nd Album [Connected]]]></title>
+            <link>https://mpmgmusic.com/product/MMT-200309-CD</link>
+            <guid>https://mpmgmusic.com/product/MMT-200309-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241314451_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조소정 EP [들켜버려도 좋은(일기)] | Jo SoJeong 1st EP [A diary for me]]]></title>
+            <link>https://mpmgmusic.com/product/JSJ-191209-CD</link>
+            <guid>https://mpmgmusic.com/product/JSJ-191209-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621242100173_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 싱글 [기적] | SORAN Single [What about you]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-191203-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-191203-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[5,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240768880_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 EP [축제] | MeloMance 6th EP [Festival]]]></title>
+            <link>https://mpmgmusic.com/product/MEL-191106-CD</link>
+            <guid>https://mpmgmusic.com/product/MEL-191106-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241733711_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 3집 [SPACEenSUM] 바이닐| daybreak 3rd Album [SPACEenSUM] Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/DB-120417-LP</link>
+            <guid>https://mpmgmusic.com/product/DB-120417-LP</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566083543_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 EP [LOAD] 바이닐 | THE SOLUTIONS EP [LOAD] Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-200603-LP</link>
+            <guid>https://mpmgmusic.com/product/SLTN-200603-LP</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566239547_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권순관 2집 [Connected] 바이닐 | Kwon Soonkwan 2nd Album [Connected] Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/MMT-200309-LP</link>
+            <guid>https://mpmgmusic.com/product/MMT-200309-LP</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566164361_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[장희원 EP [ㅎ/] | Jang HeeWon EP [ㅎ/]]]></title>
+            <link>https://mpmgmusic.com/product/JHW-170727-CD</link>
+            <guid>https://mpmgmusic.com/product/JHW-170727-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241960654_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) EP [I Know] | SURL EP [I Know]]]></title>
+            <link>https://mpmgmusic.com/product/SURL-191018-CD</link>
+            <guid>https://mpmgmusic.com/product/SURL-191018-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621239763985_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR (아월) EP [I] | OurR EP [I]]]></title>
+            <link>https://mpmgmusic.com/product/ORR-191204-CD</link>
+            <guid>https://mpmgmusic.com/product/ORR-191204-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240037967_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 EP [Share] | SORAN EP [Share]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-181218-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-181218-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240706429_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #8] 컴필레이션 앨범 | Mint Paper [bright #8] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-190905-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-190905-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622530742728_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC (램씨) 싱글 [기도] | LambC Single [Prayer]]]></title>
+            <link>https://mpmgmusic.com/product/LMC-191009-CD</link>
+            <guid>https://mpmgmusic.com/product/LMC-191009-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[5,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621239947199_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김민석 (멜로망스) EP [cinema] | Kim MinSeok (MeloMance) EP [cinema]]]></title>
+            <link>https://mpmgmusic.com/product/KMS-190920-CD</link>
+            <guid>https://mpmgmusic.com/product/KMS-190920-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623926382971_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC (램씨) 싱글 [YOU] | LambC Single [YOU]]]></title>
+            <link>https://mpmgmusic.com/product/LMC-190910-CD</link>
+            <guid>https://mpmgmusic.com/product/LMC-190910-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[5,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621239899038_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC (램씨) EP [Green is the new Black] | LambC EP [Green is the new Black]]]></title>
+            <link>https://mpmgmusic.com/product/LMC-190517-CD</link>
+            <guid>https://mpmgmusic.com/product/LMC-190517-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621239811250_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 3집 [계몽] | THORNAPPLE 3rd Album [Enlightenment]]]></title>
+            <link>https://mpmgmusic.com/product/THAP-190711-CD</link>
+            <guid>https://mpmgmusic.com/product/THAP-190711-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241092808_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 EP [SIGNATURE] | THE SOLUTIONS EP [SIGNATURE]]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-190801-CD</link>
+            <guid>https://mpmgmusic.com/product/SLTN-190801-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621238377410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들뮤직 Vol.2 가고 싶은 곳이 생겼는데] 컴필레이션 앨범 | [Nodeul Music Vol.2] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-190410-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-190410-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623122443450_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노들뮤직 Vol.1 오직 너를 위한 고백] 컴필레이션 앨범 | [Nodeul Music Vol.1] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-160830-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-160830-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1630487894872_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) EP [Aren't You] (F8L Ver.) | SURL EP [Aren't You] (F8L Ver.)]]></title>
+            <link>https://mpmgmusic.com/product/SURL-181206-CD</link>
+            <guid>https://mpmgmusic.com/product/SURL-181206-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621239700943_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 EP [Polar] | SORAN EP [Polar]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-171122-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-171122-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626168751417_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 EP [The Fairy Tale] | MeloMance 5th EP [The Fairy Tale]]]></title>
+            <link>https://mpmgmusic.com/product/MEL-180703-CD</link>
+            <guid>https://mpmgmusic.com/product/MEL-180703-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241644194_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #7] 컴필레이션 앨범 | Mint Paper [bright #7] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-180909-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-180909-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622530528122_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 EP [서울병] | THORNAPPLE EP [Capital Disease]]]></title>
+            <link>https://mpmgmusic.com/product/THAP-160519-CD</link>
+            <guid>https://mpmgmusic.com/product/THAP-160519-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241014266_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조소정 1집 [아홉 가지 별] | Jo SoJeong 1st Album [Nine Stars]]]></title>
+            <link>https://mpmgmusic.com/product/JSJ-180407-CD</link>
+            <guid>https://mpmgmusic.com/product/JSJ-180407-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621242039393_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #6] 컴필레이션 앨범 | Mint Paper [bright #6] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-170904-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-170904-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622530433810_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 EP [Moonlight] | MeloMance 4th EP [Moonlight]]]></title>
+            <link>https://mpmgmusic.com/product/MEL-170710-CD</link>
+            <guid>https://mpmgmusic.com/product/MEL-170710-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241582832_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[노리플라이 3집 [Beautiful] | no reply 3rd Album [Beautiful]]]></title>
+            <link>https://mpmgmusic.com/product/NRP-170329-CD</link>
+            <guid>https://mpmgmusic.com/product/NRP-170329-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241531988_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #5] 컴필레이션 앨범 |Mint Paper [bright #5] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-161005-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-161005-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622530185105_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 3집 [CAKE] | SORAN 3rd Album [CAKE]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-161006-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-161006-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240625953_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 EP [Romantic] | MeloMance 2nd EP [Festival]]]></title>
+            <link>https://mpmgmusic.com/product/MEL-160217-CD</link>
+            <guid>https://mpmgmusic.com/product/MEL-160217-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1627019269163_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 EP [NO PROBLEM!] | THE SOLUTIONS EP [NO PROBLEM!]]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-150608-CD</link>
+            <guid>https://mpmgmusic.com/product/SLTN-150608-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621238277569_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 싱글 [빛나는 사람] | daybreak Single [Shining Person]]]></title>
+            <link>https://mpmgmusic.com/product/DB-150410-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-150410-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[7,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240425545_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 EP [CUBE] | daybreak EP [CUBE]]]></title>
+            <link>https://mpmgmusic.com/product/DB-140722-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-140722-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240370200_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 2집 [이상기후] | THORNAPPLE 2nd Album [Strange Weather]]]></title>
+            <link>https://mpmgmusic.com/product/THAP-140612-CD</link>
+            <guid>https://mpmgmusic.com/product/THAP-140612-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240963867_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 2집 [MOVEMENTS] | THE SOLUTIONS 2nd Album [MOVEMENTS]]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-140516-CD</link>
+            <guid>https://mpmgmusic.com/product/SLTN-140516-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621238223468_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 2집 [Prince] | SORAN 2nd Album [Prince]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-131022-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-131022-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240576498_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권순관 1집 [A door] | Kwon Soonkwan 1st Album [A door]]]></title>
+            <link>https://mpmgmusic.com/product/MMT-130411-CD</link>
+            <guid>https://mpmgmusic.com/product/MMT-130411-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241254095_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE (튠) EP [Tune Your Mind] | TUNE EP [Tune Your Mind]]]></title>
+            <link>https://mpmgmusic.com/product/NRP-091027-CD</link>
+            <guid>https://mpmgmusic.com/product/NRP-091027-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1630489380380_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 1집 [난 자꾸 말을 더듬고 잠드는 법도 잊었네] | THORNAPPLE 1st Album [I Often Stammer and Forget the Way to Sleep]]]></title>
+            <link>https://mpmgmusic.com/product/THAP-130129-CD</link>
+            <guid>https://mpmgmusic.com/product/THAP-130129-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240911885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 1집 [THE SOLUTIONS] | THE SOLUTIONS 1st Album [THE SOLUTIONS]]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-120829-CD</link>
+            <guid>https://mpmgmusic.com/product/SLTN-120829-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621238129181_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 3집 [SPACEenSUM] | daybreak 3rd Album [SPACEenSUM]]]></title>
+            <link>https://mpmgmusic.com/product/DB-120417-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-120417-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240308348_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #3] 컴필레이션 앨범 | Mint Paper [bright #3] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-150122-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-150122-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1630486213122_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #2] 컴필레이션 앨범 | Mint Paper [bright #2] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-140417-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-140417-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1630489870393_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #1] 컴필레이션 앨범 | Mint Paper [bright #1] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-131004-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-131004-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1622529656138_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 1집 [natural] | SORAN 1st Album [natural]]]></title>
+            <link>https://mpmgmusic.com/product/SRN-120404-CD</link>
+            <guid>https://mpmgmusic.com/product/SRN-120404-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240532629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [cafe : night & day] 컴필레이션 앨범 | Mint Paper [cafe : night & day] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-110919-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-110919-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623118500573_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노리플라이 EP [Comma] | no reply EP [Comma]]]></title>
+            <link>https://mpmgmusic.com/product/NRP-110719-CD</link>
+            <guid>https://mpmgmusic.com/product/NRP-110719-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241485699_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[노리플라이 2집 [Dream] | no reply 2nd Album [Dream]]]></title>
+            <link>https://mpmgmusic.com/product/NRP-100915-CD</link>
+            <guid>https://mpmgmusic.com/product/NRP-100915-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241433118_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나루 2집 [Yet] | Naru 2nd Album [Yet]]]></title>
+            <link>https://mpmgmusic.com/product/SLT-100629-CD</link>
+            <guid>https://mpmgmusic.com/product/SLT-100629-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1627020049012_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 2집 [Aurora] | daybreak 2nd Album [Aurora]]]></title>
+            <link>https://mpmgmusic.com/product/DB-100805-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-100805-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240259162_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [LIFE] 컴필레이션 앨범 | Mint Paper [LIFE] Compilation Album]]></title>
+            <link>https://mpmgmusic.com/product/VA-100504-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-100504-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623118919413_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 EP [New day] | daybreak EP [New day]]]></title>
+            <link>https://mpmgmusic.com/product/DB-100119-CD</link>
+            <guid>https://mpmgmusic.com/product/DB-100119-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621240146541_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노리플라이 EP [고백하는 날] | no reply EP [The Day to Propose]]]></title>
+            <link>https://mpmgmusic.com/product/NRP-080311-CD</link>
+            <guid>https://mpmgmusic.com/product/NRP-080311-CD</guid>
+            <pubDate>Wed, 22 Sep 2021 20:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
