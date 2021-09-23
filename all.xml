@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 04:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 05:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑하지 않았을 거야 - 장희원 | 2021.09.27 (MPMG MUSIC ─ MUSIC)]]></title>
+            <link>https://mpmgmusic.com/boardPost/128124/219</link>
+            <guid>https://mpmgmusic.com/boardPost/128124/219</guid>
+            <pubDate>Thu, 23 Sep 2021 05:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1632372749589_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 옆 - SURL(설) | 2021.07.22 (MPMG MUSIC ─ MUSIC)]]></title>
             <link>https://mpmgmusic.com/boardPost/128124/218</link>
@@ -798,14 +806,6 @@
             <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062055189_300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHART - 라이프 앤 타임 | 2017.03.07 (MPMG MUSIC ─ MUSIC)]]></title>
-            <link>https://mpmgmusic.com/boardPost/128124/117</link>
-            <guid>https://mpmgmusic.com/boardPost/128124/117</guid>
-            <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062007329_300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2021.07.09 ~ 11 SURL(설) concert 'Colors' (MPMG MUSIC ─ SHOWS)]]></title>
