@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 00:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3752,20 +3752,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjNfMTYw/MDAxNjI5NzEwNjA3NzI2.RZpPej1vX_8SrHsUp251ti085zNXCAfgHvKU2Xx8AaYg.tUdEqXC05qafRyEbCT3TlyB5s5TLoTpcetGRuoa8tzYg.JPEG/IHj1UK8pPKG4jW8g0ElAq1yrW_og.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Weekly Reply] 첫 번째 Reply from. MOMENT (MPMG MUSIC ─ Weekly Reply)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32344006&amp;memberNo=15449&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32344006&amp;memberNo=15449&amp;navigationType=push</guid>
-            <pubDate>Thu, 23 Sep 2021 04:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjA2/MDAxNjMxMjQzNDUyNDIz.7wDaC8a4Ddgx1npTAQITiWBaDN_xi-ncGn2Qdwl43n8g.c61zoqvEB0CcmxRkxpkE8h8Zt502M0fpWWMfQ2tbDY8g.JPEG/Ibp06OMMZd7GIHq9lSpjutKsnUBY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Weekly Reply] 두 번째 Reply from. TUNE (MPMG MUSIC ─ Weekly Reply)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32392803&amp;memberNo=15449&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32392803&amp;memberNo=15449&amp;navigationType=push</guid>
             <pubDate>Thu, 23 Sep 2021 04:05:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTMw/MDAxNjMxNzcxNDM4NTk1.uJi86u8_EqKAqT9NIo0a2uFIMTmo44FVylvEPGAdKUsg.AYrqV7jXgYlkLCpp7IKX0YeP4r-ZgUsbUnrr8IPGqmQg.JPEG/IOGiKBRKPSRCEWVa5sLzLR_u9iiA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Reply] 첫 번째 Reply from. MOMENT (MPMG MUSIC ─ Weekly Reply)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32344006&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32344006&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Sep 2021 04:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjA2/MDAxNjMxMjQzNDUyNDIz.7wDaC8a4Ddgx1npTAQITiWBaDN_xi-ncGn2Qdwl43n8g.c61zoqvEB0CcmxRkxpkE8h8Zt502M0fpWWMfQ2tbDY8g.JPEG/Ibp06OMMZd7GIHq9lSpjutKsnUBY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이브레이크 곱나쇼 한 눈에 보기 / 카드뉴스 (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
