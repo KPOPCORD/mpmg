@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3710,6 +3710,14 @@
             <pubDate>Wed, 15 Sep 2021 18:51:00 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #3] 장희원 - 어른이 된다는 건 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32449164&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32449164&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 Sep 2021 09:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMjEg/MDAxNjMyNzMwNzk1Nzc2.h1K-bOKd8LR6jDQ25H37l0PBzSD1NHTQ5D5ZUxS61TYg.Jm5oHhs_ejF3FsSohuQefA0_eMIhIScJwaQdI59yRNUg.JPEG/IK23YjPtJ-_LwYEKv7LTI7IUfFTw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M's Diary #3 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
