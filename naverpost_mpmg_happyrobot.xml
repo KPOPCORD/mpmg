@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ 해피로봇 이야기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 10:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 11:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[naru(나루).mpmi / 카드뉴스]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32463050&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32463050&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Sun, 03 Oct 2021 11:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfNjgg/MDAxNjMyOTY4ODk3MzMy.xFitj1BUs3OnJlK0RGh4-SxPSHUCnvQYbclx-Z5DIgsg.prD1FPREwDnbKUVnaUapDihBaOUESrq5If788m7-wOgg.PNG/Iln7R65mF-M_adK9RmoidD7adlOw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이브레이크 곱나쇼 한 눈에 보기 / 카드뉴스]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31816690&amp;memberNo=15449&amp;navigationType=push</link>
@@ -163,14 +171,6 @@
             <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMThfMTc1/MDAxNTc2NjU4Mzg4MTc4._X28w32r4hDxFlYvoJ1uoxGPuM9tR1tqhj-xmZRvybog.WCsHoVnVzUYx831WHJZI2K8IawbHc8BfVOY_hpcjcnMg.JPEG/IUVfMIk-maomMxmrUsfizL6m51Z8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LambC(램씨) 첫 번째 단독공연 'Home(Closer)'미리보기와 초대 이벤트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=26817934&amp;memberNo=15449&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=26817934&amp;memberNo=15449&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 Sep 2021 19:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTExMDdfMTc2/MDAxNTczMTAzOTQ3ODEy.Qv_eHf53D5JQHEQkV-iTEMA5b1XZ9w3BFMk967l9EEQg.8HS89MvGGmHQkG7TP9La0FHX3D2AaEFjZRtMYIliba4g.JPEG/Ihg2FWm4ObjdfSW88qd8vRI1DOBw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
