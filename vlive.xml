@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.vlive.tv/channel/F95BB/board/3665?lang=ko</id>
-    <title>MPMG MUSIC ─ Media Board</title>
-    <updated>2021-10-06T13:15:26.127Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Oct 2021 14:05:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lacuna(라쿠나) - 마차ㅣSpecial Clip]]></title>
+            <link>https://m.vlive.tv/post/1-24419733</link>
+            <guid>https://m.vlive.tv/post/1-24419733</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.30.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210730_27/1627638331654H7WNf_PNG/1627638176341.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 BML 2021 직캠 공개❣️]]></title>
+            <link>https://m.vlive.tv/post/0-24328088</link>
+            <guid>https://m.vlive.tv/post/0-24328088</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.26.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210726_258/1627289500968vuAq2_JPEG/1627288025385.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BML 2021 하이라이트 🌱]]></title>
+            <link>https://m.vlive.tv/post/1-24255628</link>
+            <guid>https://m.vlive.tv/post/1-24255628</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.22.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210722_16/162694364494362K0E_PNG/1626941281935.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 영 차 영 차 📈 동학 개미들의 마음을 달래줄 플레이리스트]]></title>
+            <link>https://m.vlive.tv/post/1-24220571</link>
+            <guid>https://m.vlive.tv/post/1-24220571</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) - SWITCH ON✨비하인드 필름 공개!]]></title>
+            <link>https://m.vlive.tv/post/0-24151178</link>
+            <guid>https://m.vlive.tv/post/0-24151178</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 하고 싶은거 다해 아니 하지마🔺 | 속삭여줘 (DANG!) (Acoustic Mix)]]></title>
+            <link>https://m.vlive.tv/post/1-23938753</link>
+            <guid>https://m.vlive.tv/post/1-23938753</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.7.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dun Dun Dance Bass Cover | OH MY GIRL 오마이걸 | 베이스 호주머니 (Bass Ho)]]></title>
+            <link>https://m.vlive.tv/post/1-23897860</link>
+            <guid>https://m.vlive.tv/post/1-23897860</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[봄처녀 SPRINGIRLS | 선우정아 SWJA | Cover by Lacuna]]></title>
+            <link>https://m.vlive.tv/post/0-23846604</link>
+            <guid>https://m.vlive.tv/post/0-23846604</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[7.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Acoustic Mix) Official M/V]]></title>
+            <link>https://m.vlive.tv/post/0-23645871</link>
+            <guid>https://m.vlive.tv/post/0-23645871</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.22.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) ALBUM PREVIEW | REMIX [Beloved (Acoustic Mix)]]]></title>
+            <link>https://m.vlive.tv/post/0-23642629</link>
+            <guid>https://m.vlive.tv/post/0-23642629</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 비나이다 🙏 나이키 드로우 당첨 기다리면서 듣는 노래 👟]]></title>
+            <link>https://m.vlive.tv/post/1-23639656</link>
+            <guid>https://m.vlive.tv/post/1-23639656</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Acoustic Mix) Official Teaser]]></title>
+            <link>https://m.vlive.tv/post/1-23603713</link>
+            <guid>https://m.vlive.tv/post/1-23603713</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Feat. 몽자) | live at 라이브업]]></title>
+            <link>https://m.vlive.tv/post/0-23435340</link>
+            <guid>https://m.vlive.tv/post/0-23435340</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 속삭여줘 (DANG!) (Feat. 몽자) Stage Mix]]></title>
+            <link>https://m.vlive.tv/post/1-23235673</link>
+            <guid>https://m.vlive.tv/post/1-23235673</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[6.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이름에게 Dear Name | IU 아이유 | Cover by Lacuna]]></title>
+            <link>https://m.vlive.tv/post/1-23216540</link>
+            <guid>https://m.vlive.tv/post/1-23216540</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어푸 (Ah Puh) Bass Cover | IU 아이유 | Lacuna 김호 베이스 커버]]></title>
+            <link>https://m.vlive.tv/post/0-23180925</link>
+            <guid>https://m.vlive.tv/post/0-23180925</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SWITCH ON ✨ | SORAN CONCERT]]></title>
+            <link>https://m.vlive.tv/post/0-23143819</link>
+            <guid>https://m.vlive.tv/post/0-23143819</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[평범한 일상도 드라마 속 한 장면처럼🎬 | SORAN PLAYLIST]]></title>
+            <link>https://m.vlive.tv/post/0-23086798</link>
+            <guid>https://m.vlive.tv/post/0-23086798</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[PLAYLIST] 당근이세요..? 🥕 당근 첫 거래 가는 길에 듣는 노래]]></title>
+            <link>https://m.vlive.tv/post/0-23009728</link>
+            <guid>https://m.vlive.tv/post/0-23009728</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란(SORAN) - 있어주면 (Be with me) Stage Mix]]></title>
+            <link>https://m.vlive.tv/post/0-22932185</link>
+            <guid>https://m.vlive.tv/post/0-22932185</guid>
+            <pubDate>Wed, 06 Oct 2021 14:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[5.18.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
