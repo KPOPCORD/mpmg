@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mpmgmusic.com/academy</id>
-    <title>MPMG MUSIC ─ ACADEMY</title>
-    <updated>2021-10-06T09:05:18.116Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://mpmgmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ ACADEMY</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Oct 2021 10:05:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MPMG ACADEMY - CONCERT & FESTIVAL (마감)]]></title>
+            <link>https://mpmgmusic.com/product/mpmgacademy</link>
+            <guid>https://mpmgmusic.com/product/mpmgacademy</guid>
+            <pubDate>Wed, 06 Oct 2021 10:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[1,100,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
