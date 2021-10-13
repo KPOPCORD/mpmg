@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 00:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 01:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1616,6 +1616,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[민트페이퍼 [bright #10] 컴필레이션 앨범 | Mint Paper [bright #10] Compilation Album (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
+            <link>https://mpmgmusic.com/product/VA-211010-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-211010-CD</guid>
+            <pubDate>Wed, 13 Oct 2021 01:56:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634087707628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[naru(나루) EP [Grayed Out] | naru EP [Grayed Out] (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
             <link>https://mpmgmusic.com/product/NR-210929-CD</link>
             <guid>https://mpmgmusic.com/product/NR-210929-CD</guid>
@@ -3206,6 +3214,14 @@
             <pubDate>Wed, 15 Sep 2021 18:51:00 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227644670_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트페이퍼 [bright #10] 컴필레이션 앨범 | Mint Paper [bright #10] Compilation Album (MPMG MUSIC ─ STORE ─ MUSIC)]]></title>
+            <link>https://mpmgmusic.com/product/VA-211010-CD</link>
+            <guid>https://mpmgmusic.com/product/VA-211010-CD</guid>
+            <pubDate>Wed, 13 Oct 2021 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634087707628_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[naru(나루) EP [Grayed Out] | naru EP [Grayed Out] (MPMG MUSIC ─ STORE ─ MUSIC)]]></title>
