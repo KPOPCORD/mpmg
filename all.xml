@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 00:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 01:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 - OurR(아월) | 2021.10.17 (MPMG MUSIC ─ MUSIC)]]></title>
+            <link>https://mpmgmusic.com/boardPost/128124/222</link>
+            <guid>https://mpmgmusic.com/boardPost/128124/222</guid>
+            <pubDate>Thu, 14 Oct 2021 01:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1634170809403_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 혼자 남은 지구 - 구만(9.10000) | 2021.10.03 (MPMG MUSIC ─ MUSIC)]]></title>
             <link>https://mpmgmusic.com/boardPost/128124/221</link>
@@ -798,14 +806,6 @@
             <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062359090_300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 날씨 - 랄라스윗 | 2017.04.11 (MPMG MUSIC ─ MUSIC)]]></title>
-            <link>https://mpmgmusic.com/boardPost/128124/120</link>
-            <guid>https://mpmgmusic.com/boardPost/128124/120</guid>
-            <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062294242_300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2021.10.29 ~ 11.28 쏜애플 콘서트 '위에서 그러했듯이 아래에서도' (MPMG MUSIC ─ SHOWS)]]></title>
