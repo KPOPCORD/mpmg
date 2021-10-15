@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1616,6 +1616,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쏜애플 수성의 하루 아트워크 티셔츠 | THORNAPPLE A Day Of Mercury Artwork T-shirt (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1003</link>
+            <guid>https://mpmgmusic.com/product/THAP-1003</guid>
+            <pubDate>Fri, 15 Oct 2021 02:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634260589778_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민트페이퍼 [bright #10] 컴필레이션 앨범 | Mint Paper [bright #10] Compilation Album (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
             <link>https://mpmgmusic.com/product/VA-211010-CD</link>
             <guid>https://mpmgmusic.com/product/VA-211010-CD</guid>
@@ -2694,6 +2702,14 @@
             <pubDate>Tue, 05 Oct 2021 10:04:16 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 수성의 하루 아트워크 티셔츠 | THORNAPPLE A Day Of Mercury Artwork T-shirt (MPMG MUSIC ─ STORE ─ MERCHANDISE)]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1003</link>
+            <guid>https://mpmgmusic.com/product/THAP-1003</guid>
+            <pubDate>Fri, 15 Oct 2021 02:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634260589778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정동환 (멜로망스) 피아노 소품집 포스터 세트 | Jeong DongHwan (MeloMance) Piano Album Poster Set (MPMG MUSIC ─ STORE ─ MERCHANDISE)]]></title>

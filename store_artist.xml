@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ STORE ─ ARTIST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏜애플 수성의 하루 아트워크 티셔츠 | THORNAPPLE A Day Of Mercury Artwork T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1003</link>
+            <guid>https://mpmgmusic.com/product/THAP-1003</guid>
+            <pubDate>Fri, 15 Oct 2021 02:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634260589778_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민트페이퍼 [bright #10] 컴필레이션 앨범 | Mint Paper [bright #10] Compilation Album]]></title>
             <link>https://mpmgmusic.com/product/VA-211010-CD</link>
