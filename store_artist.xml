@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ STORE ─ ARTIST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 15:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 16:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OurR (아월) EP [can't] | OurR EP [can't]]]></title>
+            <link>https://mpmgmusic.com/product/ORR-210512-CD</link>
+            <guid>https://mpmgmusic.com/product/ORR-210512-CD</guid>
+            <pubDate>Tue, 12 Oct 2021 12:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634036299060_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏜애플 수성의 하루 아트워크 티셔츠 | THORNAPPLE A Day Of Mercury Artwork T-shirt]]></title>
             <link>https://mpmgmusic.com/product/THAP-1003</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 15:03:35 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1625371676683_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OurR (아월) EP [can't] | OurR EP [can't]]]></title>
-            <link>https://mpmgmusic.com/product/ORR-210512-CD</link>
-            <guid>https://mpmgmusic.com/product/ORR-210512-CD</guid>
-            <pubDate>Tue, 12 Oct 2021 12:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1634036299060_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 EP [Beloved] | SORAN EP [Beloved]]]></title>
