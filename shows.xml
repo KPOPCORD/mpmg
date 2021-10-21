@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ SHOWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.11.13 YOUNG & ALIVE]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/318</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/318</guid>
+            <pubDate>Thu, 21 Oct 2021 02:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1634779784741_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.11.05 ~ 11.06 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 부산']]></title>
             <link>https://mpmgmusic.com/boardPost/127606/317</link>
@@ -798,14 +806,6 @@
             <pubDate>Wed, 15 Sep 2021 18:39:43 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534801384_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.08.20 ~ 21 데이브레이크 ‘Summer Madness 2016 : CLUB TOUR’ with FINAL 서울]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/216</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/216</guid>
-            <pubDate>Wed, 15 Sep 2021 18:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534594805_300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
