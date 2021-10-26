@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3774,6 +3774,14 @@
             <pubDate>Tue, 05 Oct 2021 10:04:16 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[곡썰이 #4] OurR(아월) - 잠 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32627693&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32627693&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Oct 2021 09:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfMTk0/MDAxNjM1MjMyMDU2NTI2.TcfVj9VCoSylZKSrMNEm54q6B_upEot5JWPYbOa0mcMg.DRRQBrO4Agal9BCwdgkNjFqqx3_xCQ-p1dDmrFO-3Gog.JPEG/IqaTTlo9TxncxwQzGO-ihlczblrU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구만의 뮤직비디오 속 Q-universe를 파헤쳐 보자! (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
