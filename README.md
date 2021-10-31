@@ -1,10 +1,4 @@
 # MPMG MUSIC
-NEWS
-ABOUT
-ARTISTS
-MUSIC
-SHOWS
-MPMG STORE
 
 ## OFFICIAL WEBSITE
 - MUSIC: https://kpopcord.github.io/mpmg/music.xml  
