@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -808,6 +808,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062413772_300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[2021.11.27 ~ 11.28 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 춘천' (MPMG MUSIC ─ SHOWS)]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/319</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/319</guid>
+            <pubDate>Fri, 05 Nov 2021 05:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636081835407_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021.11.13 YOUNG & ALIVE (MPMG MUSIC ─ SHOWS)]]></title>
             <link>https://mpmgmusic.com/boardPost/127606/318</link>
             <guid>https://mpmgmusic.com/boardPost/127606/318</guid>
@@ -1598,14 +1606,6 @@
             <pubDate>Wed, 15 Sep 2021 18:39:43 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534904587_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.09.10 쏜애플 콘서트 '옮는 꿈' (MPMG MUSIC ─ SHOWS)]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/217</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/217</guid>
-            <pubDate>Wed, 15 Sep 2021 18:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534801384_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MPMG ACADEMY - CONCERT & FESTIVAL (마감) (MPMG MUSIC ─ ACADEMY)]]></title>
