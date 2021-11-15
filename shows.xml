@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ SHOWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.11.19 소란 소극장 투어 'The Moments' Scene 01]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/320</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/320</guid>
+            <pubDate>Mon, 15 Nov 2021 02:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636942062464_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.11.27 ~ 11.28 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 춘천']]></title>
             <link>https://mpmgmusic.com/boardPost/127606/319</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636081835407_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021.11.13 YOUNG & ALIVE]]></title>
+            <title><![CDATA[2021.11.13  SURL 'YOUNG & ALIVE']]></title>
             <link>https://mpmgmusic.com/boardPost/127606/318</link>
             <guid>https://mpmgmusic.com/boardPost/127606/318</guid>
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
@@ -798,14 +806,6 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534937308_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.10.01 ~ 02 데십전 : 데이브레이크 vs 10cm]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/218</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/218</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534904587_300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
