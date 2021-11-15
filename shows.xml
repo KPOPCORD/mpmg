@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ SHOWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.12.03 ~ 12.05 데이브레이크 ‘× ÷ SHOW 시즌3′]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/323</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/323</guid>
+            <pubDate>Mon, 15 Nov 2021 06:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636954109412_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.11.29 ~ 11.30 소란 소극장 투어 'The Moments' Scene 03]]></title>
             <link>https://mpmgmusic.com/boardPost/127606/322</link>
@@ -798,14 +806,6 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535133086_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.11.11 ~ 27 랄라스윗 콘서트 ‘나의인사’]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/221</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/221</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535089216_300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
