@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ SHOWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.12.06 ~ 12.08 소란 소극장 투어 'The Moments' Scene 04]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/324</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/324</guid>
+            <pubDate>Mon, 15 Nov 2021 07:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636956312205_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.12.03 ~ 12.05 데이브레이크 ‘× ÷ SHOW 시즌3′]]></title>
             <link>https://mpmgmusic.com/boardPost/127606/323</link>
@@ -798,14 +806,6 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535651223_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.11.19 라이프 앤 타임(Life And Time) 콘서트 ‘Rapids’]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/222</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/222</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535133086_300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
