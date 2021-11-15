@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너의 사랑이 날 웃게 해 - 이민혁 | 2021.11.17 (MPMG MUSIC ─ MUSIC)]]></title>
+            <link>https://mpmgmusic.com/boardPost/128124/225</link>
+            <guid>https://mpmgmusic.com/boardPost/128124/225</guid>
+            <pubDate>Mon, 15 Nov 2021 08:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636961372129_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문래동 - TUNE | 2021.11.08 (MPMG MUSIC ─ MUSIC)]]></title>
             <link>https://mpmgmusic.com/boardPost/128124/224</link>
@@ -798,14 +806,6 @@
             <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062485316_300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5cm - 장희원 | 2017.06.08 (MPMG MUSIC ─ MUSIC)]]></title>
-            <link>https://mpmgmusic.com/boardPost/128124/123</link>
-            <guid>https://mpmgmusic.com/boardPost/128124/123</guid>
-            <pubDate>Wed, 15 Sep 2021 18:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622365246578_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021.12.06 ~ 12.08 소란 소극장 투어 'The Moments' Scene 04 (MPMG MUSIC ─ SHOWS)]]></title>
