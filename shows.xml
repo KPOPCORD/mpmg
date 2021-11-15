@@ -4,9 +4,25 @@
         <title>MPMG MUSIC ─ SHOWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.11.29 ~ 11.30 소란 소극장 투어 'The Moments' Scene 03]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/322</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/322</guid>
+            <pubDate>Mon, 15 Nov 2021 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636943626579_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.27 ~ 11.28 소란 소극장 투어 'The Moments' Scene 02]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/321</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/321</guid>
+            <pubDate>Mon, 15 Nov 2021 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636942256487_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.11.19 소란 소극장 투어 'The Moments' Scene 01]]></title>
             <link>https://mpmgmusic.com/boardPost/127606/320</link>
@@ -790,22 +806,6 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535089216_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.10.08 이지형 ‘Tea Party vol.8′]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/220</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/220</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535019905_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.10.01 ~ 03 쏜애플 콘서트 ‘불구경’]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/219</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/219</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622534937308_300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
