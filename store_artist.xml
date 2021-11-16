@@ -4,9 +4,25 @@
         <title>MPMG MUSIC ─ STORE ─ ARTIST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 07:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 08:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SURL (설) YOUNG & ALIVE 티셔츠 | SURL YOUNG & ALIVE T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SURL-1027</link>
+            <guid>https://mpmgmusic.com/product/SURL-1027</guid>
+            <pubDate>Tue, 16 Nov 2021 08:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637049352942_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) YOUNG & ALIVE 로고 뱃지 | SURL YOUNG & ALIVE Logo Badge]]></title>
+            <link>https://mpmgmusic.com/product/SURL-3041</link>
+            <guid>https://mpmgmusic.com/product/SURL-3041</guid>
+            <pubDate>Tue, 16 Nov 2021 08:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637048898262_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏜애플 '위에서 그러했듯이 아래에서도' 아트워크 후드 | THORNAPPLE 'As Above So Below' Hoodie]]></title>
             <link>https://mpmgmusic.com/product/THAP-1026</link>
