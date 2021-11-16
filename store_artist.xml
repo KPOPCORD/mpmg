@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ STORE ─ ARTIST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SURL (설) 싱글 [내 옆] 7인치 바이닐 | SURL Single [Beside] 7" Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/SURL-210722-LP</link>
+            <guid>https://mpmgmusic.com/product/SURL-210722-LP</guid>
+            <pubDate>Tue, 16 Nov 2021 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637052281386_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SURL (설) YOUNG & ALIVE 티셔츠 | SURL YOUNG & ALIVE T-shirt]]></title>
             <link>https://mpmgmusic.com/product/SURL-1027</link>

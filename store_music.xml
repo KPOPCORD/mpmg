@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ STORE ─ MUSIC</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SURL (설) 싱글 [내 옆] 7인치 바이닐 | SURL Single [Beside] 7" Vinyl]]></title>
+            <link>https://mpmgmusic.com/product/SURL-210722-LP</link>
+            <guid>https://mpmgmusic.com/product/SURL-210722-LP</guid>
+            <pubDate>Tue, 16 Nov 2021 09:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637052281386_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OurR (아월) EP [can't] | OurR EP [can't]]]></title>
             <link>https://mpmgmusic.com/product/ORR-210512-CD</link>
