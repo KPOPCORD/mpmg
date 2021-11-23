@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 08:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 09:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3854,6 +3854,14 @@
             <pubDate>Tue, 05 Oct 2021 10:04:16 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 모든 노래를 이민혁 목소리로 듣고 싶어! (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32807299&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32807299&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Nov 2021 09:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMjI4/MDAxNjM3NjMxOTg5OTc3.dEalVAqIsrb5rhcCrgYgf--0zBzdZ57PJ_xjxWjZfZgg.nI4Qva9mMDkPUDWPnQIm8g76SGuq7BbH4c_OiXdAD8wg.JPEG/IlVQIgtOiTL2Pw200Lic5srn0YTw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엠피엠지 뮤직 앰배서더] M&M's Diary #4 (MPMG MUSIC ─ 엠피엠지 뮤직 앰배서더)]]></title>
