@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1626340602940_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[White - 정동환 (MeloMance) | 2021.06.24 (MPMG MUSIC ─ MUSIC)]]></title>
+            <title><![CDATA[White - 정동환 | 2021.06.24 (MPMG MUSIC ─ MUSIC)]]></title>
             <link>https://mpmgmusic.com/boardPost/128124/217</link>
             <guid>https://mpmgmusic.com/boardPost/128124/217</guid>
             <pubDate>Wed, 17 Nov 2021 19:03:00 GMT</pubDate>
