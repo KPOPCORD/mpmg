@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:05:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1616,6 +1616,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[OurR(아월) 공식 로고 슬로건 | OurR Official Logo Slogan (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3042-BLK</link>
+            <guid>https://mpmgmusic.com/product/ORR-3042-BLK</guid>
+            <pubDate>Fri, 26 Nov 2021 07:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637907064540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR(아월) '잠' 아트워크 담요 | OurR 'Beyond the Nights' Artwork Blanket (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3043</link>
+            <guid>https://mpmgmusic.com/product/ORR-3043</guid>
+            <pubDate>Fri, 26 Nov 2021 07:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637829755923_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SURL (설) 싱글 [내 옆] 7인치 바이닐 | SURL Single [Beside] 7" Vinyl (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
             <link>https://mpmgmusic.com/product/SURL-210722-LP</link>
             <guid>https://mpmgmusic.com/product/SURL-210722-LP</guid>
@@ -2742,6 +2758,22 @@
             <pubDate>Tue, 05 Oct 2021 10:04:16 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621241386106_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR(아월) 공식 로고 슬로건 | OurR Official Logo Slogan (MPMG MUSIC ─ STORE ─ MERCHANDISE)]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3042-BLK</link>
+            <guid>https://mpmgmusic.com/product/ORR-3042-BLK</guid>
+            <pubDate>Fri, 26 Nov 2021 07:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637907064540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR(아월) '잠' 아트워크 담요 | OurR 'Beyond the Nights' Artwork Blanket (MPMG MUSIC ─ STORE ─ MERCHANDISE)]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3043</link>
+            <guid>https://mpmgmusic.com/product/ORR-3043</guid>
+            <pubDate>Fri, 26 Nov 2021 07:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637829755923_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SURL (설) YOUNG & ALIVE 티셔츠 | SURL YOUNG & ALIVE T-shirt (MPMG MUSIC ─ STORE ─ MERCHANDISE)]]></title>
