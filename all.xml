@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -808,6 +808,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062548598_300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[2021.12.11 ~ 12.12 노리플라이 콘서트 '오래전 그 멜로디 : Bookend' (MPMG MUSIC ─ SHOWS)]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/325</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/325</guid>
+            <pubDate>Fri, 26 Nov 2021 11:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1637921361348_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021.12.06 ~ 12.08 소란 소극장 투어 'The Moments' Scene 04 (MPMG MUSIC ─ SHOWS)]]></title>
             <link>https://mpmgmusic.com/boardPost/127606/324</link>
             <guid>https://mpmgmusic.com/boardPost/127606/324</guid>
@@ -1598,14 +1606,6 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535832644_300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2016.12.02 ~ 03 데이브레이크 콘서트 ‘오늘 밤은 평화롭게’ (MPMG MUSIC ─ SHOWS)]]></title>
-            <link>https://mpmgmusic.com/boardPost/127606/223</link>
-            <guid>https://mpmgmusic.com/boardPost/127606/223</guid>
-            <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535651223_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MPMG ACADEMY - CONCERT & FESTIVAL (마감) (MPMG MUSIC ─ ACADEMY)]]></title>
