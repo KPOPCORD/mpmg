@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4046,6 +4046,14 @@
             <pubDate>Thu, 23 Sep 2021 04:05:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjA2/MDAxNjMxMjQzNDUyNDIz.7wDaC8a4Ddgx1npTAQITiWBaDN_xi-ncGn2Qdwl43n8g.c61zoqvEB0CcmxRkxpkE8h8Zt502M0fpWWMfQ2tbDY8g.JPEG/Ibp06OMMZd7GIHq9lSpjutKsnUBY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁.mpmi / 카드뉴스 (MPMG MUSIC ─ 광합성 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32845618&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32845618&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Nov 2021 09:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTMg/MDAxNjM4MTYxNjk5MTM3.XZsaLGkBcG4FszZH4bwbIN-m10qFgbpLnFzT-MawuCEg.gCqmVZd2SxP3QHUraJaLvjf5ZiantMf7QKvkreOwoc8g.PNG/IvcUlrzXFSCUuPJyyWxOy0YJcBhY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TUNE의 시각으로 담은 '문래동' (MPMG MUSIC ─ 해피로봇 이야기)]]></title>
