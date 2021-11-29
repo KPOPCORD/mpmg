@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ MUSIC</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 - 장희원 | 2021.12.02]]></title>
+            <link>https://mpmgmusic.com/boardPost/128124/227</link>
+            <guid>https://mpmgmusic.com/boardPost/128124/227</guid>
+            <pubDate>Mon, 29 Nov 2021 05:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1638160742527_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stop! - 제이유나 (J.UNA) | 2021.11.25]]></title>
             <link>https://mpmgmusic.com/boardPost/128124/226</link>
@@ -798,14 +806,6 @@
             <pubDate>Wed, 17 Nov 2021 19:03:00 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062588354_300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perfect Day - 소란 | 2017.06.17]]></title>
-            <link>https://mpmgmusic.com/boardPost/128124/125</link>
-            <guid>https://mpmgmusic.com/boardPost/128124/125</guid>
-            <pubDate>Wed, 17 Nov 2021 19:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[관리자]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1621062548598_300.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
