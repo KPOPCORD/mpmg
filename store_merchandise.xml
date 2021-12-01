@@ -1,8 +1,579 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mpmgmusic.com/shop_merchandise</id>
-    <title>MPMG MUSIC ─ STORE ─ MERCHANDISE</title>
-    <updated>2021-12-01T17:17:24.847Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://mpmgmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ STORE ─ MERCHANDISE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Dec 2021 19:04:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OurR(아월) 공식 로고 슬로건 | OurR Official Logo Slogan]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3042-BLK</link>
+            <guid>https://mpmgmusic.com/product/ORR-3042-BLK</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637907064540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR(아월) '잠' 아트워크 담요 | OurR 'Beyond the Nights' Artwork Blanket]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3043</link>
+            <guid>https://mpmgmusic.com/product/ORR-3043</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637829755923_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) YOUNG & ALIVE 티셔츠 | SURL YOUNG & ALIVE T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SURL-1027</link>
+            <guid>https://mpmgmusic.com/product/SURL-1027</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637049352942_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) YOUNG & ALIVE 로고 뱃지 | SURL YOUNG & ALIVE Logo Badge]]></title>
+            <link>https://mpmgmusic.com/product/SURL-3041</link>
+            <guid>https://mpmgmusic.com/product/SURL-3041</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1637048898262_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 '위에서 그러했듯이 아래에서도' 아트워크 후드 | THORNAPPLE 'As Above So Below' Hoodie]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1026</link>
+            <guid>https://mpmgmusic.com/product/THAP-1026</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1635837204564_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 '수성의 하루' & '위에서 그러했듯이 아래에서도' PET 포스터 세트 | THORNAPPLE 'A Day Of Mercury' & 'As Above So Below' PET Poster Set]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3040</link>
+            <guid>https://mpmgmusic.com/product/THAP-3040</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1635837166795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동환 (멜로망스) 피아노 소품집 포스터 세트 | Jeong DongHwan (MeloMance) Piano Album Poster Set]]></title>
+            <link>https://mpmgmusic.com/product/JDH-3039</link>
+            <guid>https://mpmgmusic.com/product/JDH-3039</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626683886549_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 Picaresque PET 포스터 세트 | THORNAPPLE Picaresque PET Poster Set]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3038</link>
+            <guid>https://mpmgmusic.com/product/THAP-3038</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1625371676683_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 [Beloved] 마스킹테이프 (3종) | SORAN [Beloved] Masking Tape 3 Set]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3037</link>
+            <guid>https://mpmgmusic.com/product/SRN-3037</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623113336241_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 [Beloved] 떡메모지 세트 | SORAN [Beloved] Memo 2 Set]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3036</link>
+            <guid>https://mpmgmusic.com/product/SRN-3036</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[5,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623113167540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 [Beloved] 다이어리 꾸미기 세트 | SORAN [Beloved] Diary MD Set]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3035</link>
+            <guid>https://mpmgmusic.com/product/SRN-3035</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623112697945_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 피카레스크 투어 티셔츠 | THORNAPPLE Picaresque Tour T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1001</link>
+            <guid>https://mpmgmusic.com/product/THAP-1001</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621228618083_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 로고 티셔츠 | THORNAPPLE Logo T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1000</link>
+            <guid>https://mpmgmusic.com/product/THAP-1000</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230161528_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR (아월) 로고 아크릴 키링 | OurR Logo Acrylic Key Ring + Bin Button]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3029</link>
+            <guid>https://mpmgmusic.com/product/ORR-3029</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237381607_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 SUMMER MADNESS 2020 티셔츠 | daybreak SUMMER MADNESS 2020 T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/DB-1005</link>
+            <guid>https://mpmgmusic.com/product/DB-1005</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230691351_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 로고 에어팟 케이스 | THORNAPPLE Logo Airpods Case]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3034</link>
+            <guid>https://mpmgmusic.com/product/THAP-3034</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237652996_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 Picaresque 자석 책갈피 세트 | THORNAPPLE Picaresque Magnet Bookmark Set]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3016</link>
+            <guid>https://mpmgmusic.com/product/THAP-3016</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232425021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조소정 아코디언 시집 카드 | Jo SoJeong Poetry Card]]></title>
+            <link>https://mpmgmusic.com/product/JSJ-3033</link>
+            <guid>https://mpmgmusic.com/product/JSJ-3033</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237597045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 [소행성] 키링 | Lee MinHyuk [Asteroid] Key Ring]]></title>
+            <link>https://mpmgmusic.com/product/LMH-3032</link>
+            <guid>https://mpmgmusic.com/product/LMH-3032</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237539640_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [The Fairy Tale] 키링 | MeloMance [The Fairy Tale] Key Ring]]></title>
+            <link>https://mpmgmusic.com/product/MEL-3031</link>
+            <guid>https://mpmgmusic.com/product/MEL-3031</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237486677_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [The Fairy Tale] 금형 뱃지 | MeloMance [The FairyTale] Badge]]></title>
+            <link>https://mpmgmusic.com/product/MEL-3030</link>
+            <guid>https://mpmgmusic.com/product/MEL-3030</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237438546_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR (아월) 티셔츠 | OurR T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/ORR-1019</link>
+            <guid>https://mpmgmusic.com/product/ORR-1019</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1628737052265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 ICE 홀로그램 넥 스트랩 | SORAN ICE Hologram Neck Strap]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3028</link>
+            <guid>https://mpmgmusic.com/product/SRN-3028</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237329686_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 ICE 홀로그램 카드지갑 | SORAN ICE Hologram Card Holder]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3027</link>
+            <guid>https://mpmgmusic.com/product/SRN-3027</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[7,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237243663_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 Cocktail 뱃지 | SORAN Cocktail Badge]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3026</link>
+            <guid>https://mpmgmusic.com/product/SRN-3026</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[7,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237132442_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 로고 뱃지 | SORAN Logo Badge]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3025</link>
+            <guid>https://mpmgmusic.com/product/SRN-3025</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[4,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621237047404_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 TO.DAY 뱃지 | daybreak TO.DAY Badge]]></title>
+            <link>https://mpmgmusic.com/product/DB-3024</link>
+            <guid>https://mpmgmusic.com/product/DB-3024</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[9,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621236992803_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) 로고 뱃지 세트 | SURL Logo Badge Set]]></title>
+            <link>https://mpmgmusic.com/product/SURL-3023</link>
+            <guid>https://mpmgmusic.com/product/SURL-3023</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621236866584_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 로고 핸드폰그립 | THE SOLUTIONS Hologram Logo Phone Grip]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-3022</link>
+            <guid>https://mpmgmusic.com/product/SLTN-3022</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[7,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621236788337_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 [LOAD] 포토북 | THE SOLUTIONS [LOAD] Photobook]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-3021</link>
+            <guid>https://mpmgmusic.com/product/SLTN-3021</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621236717184_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 Lights, Camera, Action! L-홀더 | SORAN Lights, Camera, Action! L-Holder]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3020</link>
+            <guid>https://mpmgmusic.com/product/SRN-3020</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232623350_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 live SORAN 스티커 세트 | SORAN live SORAN Sticker Set]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3019</link>
+            <guid>https://mpmgmusic.com/product/SRN-3019</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[4,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232582905_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 퍼펙트데이 티켓홀더 | SORAN Perfect Day Ticket Holder]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3018</link>
+            <guid>https://mpmgmusic.com/product/SRN-3018</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[4,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232540543_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 퍼펙트데이 습관달력 세트 | SORAN Perfect Day Calendar SET]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3017</link>
+            <guid>https://mpmgmusic.com/product/SRN-3017</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[6,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232490789_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 Picaresque 아트워크 패브릭 포스터 | THORNAPPLE Picaresque Artwork Fabric Poster]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3010</link>
+            <guid>https://mpmgmusic.com/product/THAP-3010</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620567183764_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 박스테이프 | daybreak Box Tape]]></title>
+            <link>https://mpmgmusic.com/product/DB-3015</link>
+            <guid>https://mpmgmusic.com/product/DB-3015</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[6,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232375576_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 SUMMER MADNESS 2020 떡메모지 | daybreak SUMMER MADNESS 2020 Memo Notes]]></title>
+            <link>https://mpmgmusic.com/product/DB-3014</link>
+            <guid>https://mpmgmusic.com/product/DB-3014</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[4,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232319592_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 [소행성] 포스트잇+스티커 세트 | Lee MinHyuk [Asteroid] Post-it Note + Sticker Set]]></title>
+            <link>https://mpmgmusic.com/product/LMH-3013</link>
+            <guid>https://mpmgmusic.com/product/LMH-3013</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[5,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232261865_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [The Fairy Tale] L-홀더 | MeloMance [The Fairy Tale] L-Holder]]></title>
+            <link>https://mpmgmusic.com/product/MEL-3012</link>
+            <guid>https://mpmgmusic.com/product/MEL-3012</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232203792_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [The Fairy Tale] 마스킹테이프 | MeloMance [The Fairy Tale] Masking Tape]]></title>
+            <link>https://mpmgmusic.com/product/MEL-3011</link>
+            <guid>https://mpmgmusic.com/product/MEL-3011</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[3,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232106018_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 공식 슬로건 | THORNAPPLE Official Slogan]]></title>
+            <link>https://mpmgmusic.com/product/THAP-3007</link>
+            <guid>https://mpmgmusic.com/product/THAP-3007</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621231811801_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) [Ferris Wheel] 아트워크 패브릭 포스터 | SURL [Ferris Wheel] Artwork Fabric Poster]]></title>
+            <link>https://mpmgmusic.com/product/SURL-3009</link>
+            <guid>https://mpmgmusic.com/product/SURL-3009</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621232017261_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 공식슬로건 | MeloMance Official Slogan]]></title>
+            <link>https://mpmgmusic.com/product/MEL-3008</link>
+            <guid>https://mpmgmusic.com/product/MEL-3008</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621231870101_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) 티셔츠 | SURL T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SURL-1015</link>
+            <guid>https://mpmgmusic.com/product/SURL-1015</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1628736906528_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 공식 슬로건 | SORAN Official Slogan]]></title>
+            <link>https://mpmgmusic.com/product/SRN-3006</link>
+            <guid>https://mpmgmusic.com/product/SRN-3006</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621231762072_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 New Logo 슬로건 | daybreak New Logo Slogan]]></title>
+            <link>https://mpmgmusic.com/product/DB-3005</link>
+            <guid>https://mpmgmusic.com/product/DB-3005</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566871816_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장희원 티셔츠 | Jang HeeWon T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/JHW-1024</link>
+            <guid>https://mpmgmusic.com/product/JHW-1024</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227268243_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이유나 (J.UNA) 티셔츠 | J.UNA T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/JYN-1022</link>
+            <guid>https://mpmgmusic.com/product/JYN-1022</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226981472_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LambC (램씨) 티셔츠 | LambC T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/LMC-1010</link>
+            <guid>https://mpmgmusic.com/product/LMC-1010</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1618815179662_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구만(9.10000) 티셔츠 | qman(9.10000) T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/GM-1018</link>
+            <guid>https://mpmgmusic.com/product/GM-1018</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227054050_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 New Logo 슬리퍼 | daybreak New Logo Slippers]]></title>
+            <link>https://mpmgmusic.com/product/GAP0024</link>
+            <guid>https://mpmgmusic.com/product/GAP0024</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230570891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 불구경 아트워크 티셔츠 | THORNAPPLE Fire Watching 2019 Artwork T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1002</link>
+            <guid>https://mpmgmusic.com/product/THAP-1002</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623207565318_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) 티셔츠 | Lacuna T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/LCN-1017</link>
+            <guid>https://mpmgmusic.com/product/LCN-1017</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226908232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 티셔츠 | THE SOLUTIONS T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-1011</link>
+            <guid>https://mpmgmusic.com/product/SLTN-1011</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621225470540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 티셔츠 | daybreak T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/DB-1012</link>
+            <guid>https://mpmgmusic.com/product/DB-1012</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1618814788304_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 티셔츠 | SORAN T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SRN-1013</link>
+            <guid>https://mpmgmusic.com/product/SRN-1013</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621225998383_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노리플라이 티셔츠 | no reply T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/NRP-1016</link>
+            <guid>https://mpmgmusic.com/product/NRP-1016</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226846643_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 티셔츠 | MeloMance T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/MEL-1020</link>
+            <guid>https://mpmgmusic.com/product/MEL-1020</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226174288_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 티셔츠 | Lee MinHyuk T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/LMH-1021</link>
+            <guid>https://mpmgmusic.com/product/LMH-1021</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226473617_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조소정 티셔츠 | Jo SoJeong T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/JSJ-1023</link>
+            <guid>https://mpmgmusic.com/product/JSJ-1023</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227192621_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 [계몽] 티셔츠 | THORNAPPLE [Enlightenment] T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/THAP-1014</link>
+            <guid>https://mpmgmusic.com/product/THAP-1014</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621226227438_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 live SORAN 후드티 | SORAN live SORAN Hoodie]]></title>
+            <link>https://mpmgmusic.com/product/SRN-1003</link>
+            <guid>https://mpmgmusic.com/product/SRN-1003</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230240993_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lacuna (라쿠나) 기타 피크 세트 | Lacuna Guitar Pick Set]]></title>
+            <link>https://mpmgmusic.com/product/LCN-3002</link>
+            <guid>https://mpmgmusic.com/product/LCN-3002</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230981804_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR (아월) 기타 피크 세트 | OurR Guitar Pick Set]]></title>
+            <link>https://mpmgmusic.com/product/ORR-3001</link>
+            <guid>https://mpmgmusic.com/product/ORR-3001</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566642924_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) 후드 (2020 Ver. / 검은색) | SURL Logo Reflective Hoodie (2020 Ver. / Black)]]></title>
+            <link>https://mpmgmusic.com/product/SURL-1006</link>
+            <guid>https://mpmgmusic.com/product/SURL-1006</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227863149_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) [Aren't You] 티셔츠 | SURL [Aren't You] T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/SURL-1007</link>
+            <guid>https://mpmgmusic.com/product/SURL-1007</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621228176254_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 공식 슬로건 | THE SOLUTIONS Official Slogan]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-3003</link>
+            <guid>https://mpmgmusic.com/product/SLTN-3003</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621231589724_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL (설) 로고 슬로건 | SURL Logo Slogan]]></title>
+            <link>https://mpmgmusic.com/product/SURL-3004</link>
+            <guid>https://mpmgmusic.com/product/SURL-3004</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1620566744439_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스 기타 피크 세트 | THE SOLUTIONS Guitar Pick Set]]></title>
+            <link>https://mpmgmusic.com/product/SLTN-3000</link>
+            <guid>https://mpmgmusic.com/product/SLTN-3000</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621230926298_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [The Fairy Tale] 티셔츠 | MeloMance [The Fairy Tale] T-shirt]]></title>
+            <link>https://mpmgmusic.com/product/MEL-1008</link>
+            <guid>https://mpmgmusic.com/product/MEL-1008</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227354658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 [____인사] 맨투맨 | MeloMance [____You&I] Sweatshirt]]></title>
+            <link>https://mpmgmusic.com/product/MEL-1009</link>
+            <guid>https://mpmgmusic.com/product/MEL-1009</guid>
+            <pubDate>Wed, 01 Dec 2021 19:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1621227644670_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
