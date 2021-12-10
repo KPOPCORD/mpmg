@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 09:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 10:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4062,6 +4062,14 @@
             <pubDate>Thu, 23 Sep 2021 04:05:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjA2/MDAxNjMxMjQzNDUyNDIz.7wDaC8a4Ddgx1npTAQITiWBaDN_xi-ncGn2Qdwl43n8g.c61zoqvEB0CcmxRkxpkE8h8Zt502M0fpWWMfQ2tbDY8g.JPEG/Ibp06OMMZd7GIHq9lSpjutKsnUBY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장희원.mpmi / 카드뉴스 (MPMG MUSIC ─ 광합성 이야기)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32911591&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32911591&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Fri, 10 Dec 2021 10:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMTM3/MDAxNjM5MDE1NTI1NjA1.1T0deZJU1ZOCFGXarQehChB6sPmaK6uT3wU0nGCn3nQg.xQuJwMOCaUJ_k5nG4NdaJi2Ro4RPbeXPtvgNX8mXWOEg.JPEG/IEI2py1MdSX6uDiQGvvum0HS6MoU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이유나(J.UNA).mpmi / 카드뉴스 (MPMG MUSIC ─ 광합성 이야기)]]></title>
