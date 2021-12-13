@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 12:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1606,6 +1606,14 @@
             <pubDate>Sun, 14 Nov 2021 14:03:09 GMT</pubDate>
             <content:encoded><![CDATA[관리자]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535856477_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPMG ACADEMY - CONCERT & FESTIVAL (마감) (MPMG MUSIC ─ ACADEMY)]]></title>
+            <link>https://mpmgmusic.com/product/mpmgacademy</link>
+            <guid>https://mpmgmusic.com/product/mpmgacademy</guid>
+            <pubDate>Mon, 13 Dec 2021 12:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[1,100,000원]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1626932068900_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OurR(아월) 공식 로고 슬로건 | OurR Official Logo Slogan (MPMG MUSIC ─ STORE ─ ARTIST)]]></title>
