@@ -4,9 +4,17 @@
         <title>MPMG MUSIC ─ 해피로봇 이야기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 08:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 09:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 데이브레이크 단독공연 [곱나쇼 시즌3]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957801&amp;memberNo=15449&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32957801&amp;memberNo=15449&amp;navigationType=push</guid>
+            <pubDate>Thu, 16 Dec 2021 09:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMjcy/MDAxNjM5NTYyNzY3MjI3.0lakemS43htrbxlaCOXKmZGhoL8v0aZbhNjWS9zB95wg.cs1YQ16Mk1vvdFO0W6NptsK2Rf2QjXslyMsl6MZlN_kg.JPEG/IzI-wH7UNM8NBcKLa8BqADt5RUh0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TUNE의 시각으로 담은 '문래동']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32772988&amp;memberNo=15449&amp;navigationType=push</link>
@@ -159,15 +167,6 @@
             <pubDate>Thu, 07 Oct 2021 15:04:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjhfMTYz/MDAxNTkwNjQ3NTQ5MjYy.8Ih85of0fqcvGiYD3lvPfmtDbUFHvDZ4J51X__l1QQsg.YwcHCJSQu1bB567hqjXDTegM4nNEX5F8san-XIa__kIg.JPEG/Iqd9tLlipB_kSL1TM3-LdClF3OaU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란의 스페셜 콘텐츠
-촬영 현장 비하인드!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28076811&amp;memberNo=15449&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28076811&amp;memberNo=15449&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 15:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">MPMG MUSIC</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjNfMzMg/MDAxNTg3NjIxOTM5MDY4.E6CdPVtAWnRX1pXaCeKQKd-m_82M21FkKn8zpgDclLog.5ZRLBfGIF83fOGDzHBtZVBpc9seRYaoux8HduGXBPCkg.JPEG/IAISzw7RT_klCDRSGtckDyejKaAE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
