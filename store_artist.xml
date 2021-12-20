@@ -4,7 +4,7 @@
         <title>MPMG MUSIC ─ STORE ─ ARTIST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 10:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 11:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -924,7 +924,7 @@
             <link>https://mpmgmusic.com/product/THAP-1002</link>
             <guid>https://mpmgmusic.com/product/THAP-1002</guid>
             <pubDate>Tue, 14 Dec 2021 15:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/product/THAP-1002" alt="쏜애플 불구경 아트워크 티셔츠  THORNAPPLE Fire Watching 2019 Artwork Tshirt"><div class="thumbDiv"><div class="thumb img" imgsrc="/uploadedFiles/157578/product/image_1623207565318.jpeg" style="width:100%;background-image:url(https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623207565318_1000.jpeg)"></div><div class="shopProductBackground"></div><div class="badgeWrapper"><div class="discountBadge badge"><span>할인</span></div></div></div><div class="shopProductNameAndPriceDiv"><div class="shopProductNameAndPriceContent"><div class="shopProductNameAndPrice"><div class="shopProduct productName">쏜애플 불구경 아트워크 티셔츠 | THORNAPPLE Fire Watching 2019 Artwork T-shirt</div><div class="shopProduct price"><span class="productDiscountPriceSpan">25,000원 </span><span class="productPriceWithDiscountSpan">30,000원</span></div></div></div></div></a>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/product/image_1623207565318_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
