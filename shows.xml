@@ -1,8 +1,811 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mpmgmusic.com/shows</id>
-    <title>MPMG MUSIC ─ SHOWS</title>
-    <updated>2021-12-21T08:07:50.035Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://mpmgmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MPMG MUSIC ─ SHOWS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Dec 2021 09:05:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.12.24 ~ 12.26 쏜애플 콘서트 '불구경']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/326</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/326</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1639965203384_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.12.11 ~ 12.12 노리플라이 콘서트 '오래전 그 멜로디 : Bookend']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/325</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/325</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1637921361348_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.12.06 ~ 12.08 소란 소극장 투어 'The Moments' Scene 04]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/324</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/324</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636956312205_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.12.03 ~ 12.05 데이브레이크 ‘× ÷ SHOW 시즌3′]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/323</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/323</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636954109412_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.29 ~ 11.30 소란 소극장 투어 'The Moments' Scene 03]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/322</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/322</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636943626579_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.27 ~ 11.28 소란 소극장 투어 'The Moments' Scene 02]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/321</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/321</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636942256487_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.19 소란 소극장 투어 'The Moments' Scene 01]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/320</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/320</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636942062464_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.27 ~ 11.28 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 춘천']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/319</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/319</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1636081835407_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.13  SURL 'YOUNG & ALIVE']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/318</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/318</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1634779784741_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.11.05 ~ 11.06 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 부산']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/317</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/317</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1634200597127_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.10.29 쏜애플 콘서트 '위에서 그러했듯이 아래에서도 - 서울']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/316</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/316</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1633604837603_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.10.06 ~ 27 쏜애플 콘서트 '수성의 하루']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/315</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/315</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1632712610000_300.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.07.09 ~ 11 SURL(설) concert 'Colors']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/314</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/314</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1623659178439_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.06.18 ~ 27 쏜애플 콘서트 '피카레스크']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/313</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/313</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622613928030_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.06.18 ~ 20 소란 소극장 콘서트 'SWITCH ON']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/312</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/312</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622613776456_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.06.05 OurR(아월) EP Release Concert – ‘I can't']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/311</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/311</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622613662822_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.04.30 ~ 06.06 데이브레이크 ‘× ÷ SHOW 시즌2′]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/310</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/310</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622613290236_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.02.06 MPMG WEEK 2021 : MVP Concert – 솔루션스 [NEXT]]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/309</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/309</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622612978556_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.11.13 ~ 15 쏜애플 콘서트 '불구경']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/308</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/308</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622612806009_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.10.11 ~ 13 쏜애플 Unplugged Live '넓은 밤']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/307</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/307</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622612334352_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.09.25 ~ 11.01 데이브레이크 ‘× ÷ SHOW’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/306</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/306</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622612101669_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.08.15 ~ 16 SURL Concert ‘Ah, ah, ah, ah What can I do?’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/304</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/304</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622611582215_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.08.07 ~ 16 권순관 소극장 콘서트 ‘변하지 않는 것들’ : page 2]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/303</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/303</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622615771216_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.07.24 ~ 26 / 07.31 ~ 08.02 이민혁 소극장 장기 콘서트 '소행성' 두 번째 이야기]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/302</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/302</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622611166813_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.07.11 ~ 12 솔루션스 콘서트 ‘LOADING’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/301</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/301</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610830034_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.06.19 ~ 21 쏜애플 콘서트 ‘물의 기억’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/300</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/300</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610719148_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.05.30 ~ 31 솔루션스 EP [LOAD] 발매 기념 쇼케이스]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/299</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/299</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610633965_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.02.21 ~ 03.08 데이브레이크 소극장 장기 콘서트 ‘TO.DAY’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/298</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/298</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610504306_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020.01.11 OurR(아월) 1st concert ‘III’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/297</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/297</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610408705_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.12.27 ~ 28 이민혁 겨울 콘서트 'Anniversary']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/296</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/296</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610302739_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.12.24 ~ 25 쏜애플 콘서트 ‘은하’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/295</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/295</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622610013807_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.12.20 ~ 22 소란 winter concert ‘live SORAN’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/294</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/294</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622609746395_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.12.14 조소정 '들켜버려도 좋은' 음악 감상회]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/293</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/293</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622609329358_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.12.07 ~ 08 권순관 연말 콘서트 ‘Connected’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/292</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/292</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622609162673_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.11.30 ~ 12.01 THE SOLUTIONS CONCERT ‘CITY’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/291</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/291</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1623645883313_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.11.30 LambC(램씨) 1st 소극장 공연 ‘Home (Closer)’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/290</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/290</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1623645928039_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.11.24 SURL 단독 콘서트 ‘Yes, You Are’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/289</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/289</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1623645719018_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.11.09 ~ 10 멜로망스 콘서트 ‘____인사’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/288</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/288</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1623645004267_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.09.20 ~ 29 쏜애플 콘서트 ‘불구경’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/287</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/287</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622603761426_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.08.24 ~ 25 소란 여름 콘서트 ‘Cocktail’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/286</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/286</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622603636159_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.08.17 ~ 18 데이브레이크 ‘SUMMER MADNESS 2019 : ESCAPE’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/285</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/285</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622603442259_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.07.18 ~ 21 / 07.25 ~ 28 이민혁 소극장 장기 콘서트 '소행성']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/284</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/284</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622603237194_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.07.13 ~ 14 쏜애플 콘서트 마술]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/283</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/283</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622603104305_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.03.22 ~ 31 소란 콘서트 'Perfect Day 7']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/282</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/282</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622602946358_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2019.01.12 ~ 13 소란 겨울 콘서트 ‘Lights, Camera, Action!’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/281</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/281</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622602641458_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.25 이민혁 콘서트 '겨울, 그리고 우리']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/280</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/280</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622602494030_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.24 이요한(OFA) 겨울 콘서트 'NIGHT OR DAY']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/279</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/279</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622602208230_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.23 ~ 24 THE SOLUTIONS winter concert ‘MOOD FOR’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/278</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/278</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622602057319_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.21 ~ 22 라이프 앤 타임(Life And Time) 콘서트 ‘Age 2’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/277</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/277</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601958584_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.21 ~ 22 쏜애플 콘서트 ‘춤추는 별’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/276</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/276</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601870044_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.12.02 조소정 첫 단독 콘서트 '아홉 가지 별']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/275</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/275</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601761968_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.11.30 ~ 12.01 이수륜 겨울 콘서트 ‘candle’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/274</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/274</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601561049_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.11.23 ~ 25 데이브레이크 연말 콘서트 ‘unboxing’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/273</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/273</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601436125_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.10.28 이요한(OFA) 첫 단독 콘서트 <how long can we go?>]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/272</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/272</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622601250169_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.09.28 ~ 30 라이프 앤 타임(Life And Time) 정규 2집 발매 기념 콘서트]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/271</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/271</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600960805_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.09.28 ~ 10.09 노리플라이 소극장 장기 콘서트 ‘Love’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/270</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/270</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600847924_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.09.14 ~ 23 쏜애플 콘서트 ‘불구경’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/269</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/269</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600785169_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.09.08 소란 앵콜 콘서트 ‘Parfait Grande’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/268</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/268</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600695210_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.08.23 BLENDING 3oz. : 이지형 X 오브로젝트]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/267</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/267</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600607757_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.08.25 ~ 26 데이브레이크 ‘SUMMER MADNESS 2018 : 유성우(流星雨)’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/266</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/266</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600517827_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.07.27 ~ 29 소란 여름 콘서트 ‘Parfait’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/265</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/265</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600346776_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.07.20 ~ 22 랄라스윗 여름콘서트 ‘One Night Summer Trip’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/264</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/264</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600273150_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.07.06 ~ 08 멜로망스 콘서트 'The Fairy Tale']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/263</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/263</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622600166870_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.06.30 Happy Robot Showcase : NEW WAVE Vol.1]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/262</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/262</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622599720997_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.06.23 THE SOLUTIONS concert ‘THE LAB #2 : PHYSICAL’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/261</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/261</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622599500354_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.06.21 BLENDING 2oz. : 이지형 X 마틴 스미스]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/260</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/260</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622599392919_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.06.15 ~ 17 쏜애플 어쿠스틱 콘서트 '뭍']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/259</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/259</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622599202222_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.04.29 THE KOXX concert 'iNVADE Ⅱ : open fire']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/258</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/258</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622598793624_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.04.28 ~ 29 노리플라이 단독 콘서트 ‘아름다운 시절’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/257</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/257</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622541885087_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.04.19 BLENDING 1oz. : 이지형 X 훈스]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/256</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/256</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622541834588_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2018.03.09 ~ 25 소란 콘서트 ‘Perfect Day 6’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/254</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/254</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622541640741_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.29 ~ 31 멜로망스 콘서트 '선물']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/253</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/253</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622541150997_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.23 ~ 24 쏜애플 콘서트 ‘계몽’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/252</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/252</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622541114195_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.22 ~ 24 THE KOXX’s THE NIGHTMARE BEFORE CHRISTMAS]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/251</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/251</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540900053_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.22 ~ 24 소란 윈터 콘서트 ‘SO SORAN’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/250</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/250</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540771439_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.09 ~ 10 데이브레이크 연말 콘서트 ‘RUNWAY’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/249</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/249</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540730340_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.12.07 ~ 31 이지형 음악극 ‘THE HOME : Christmas’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/248</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/248</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540636832_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.11.11 ~ 12.03 랄라스윗 소극장 장기 공연 ‘나의 우주에서’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/247</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/247</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540533258_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.09.10 PLAY LOUD : 칵스, 솔루션스, 라이프 앤 타임]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/246</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/246</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540460120_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.09.01 ~ 10 쏜애플 ‘불구경’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/245</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/245</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540403274_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.08.25 ~ 09.03 멜로망스 소극장 장기 콘서트 'Moonlight 2악장']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/244</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/244</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540160289_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.08.19 이지형 ‘ice Tea Party’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/243</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/243</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540067622_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.08.14 ~ 15 소란 여름 콘서트 ‘Shake’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/242</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/242</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622540025668_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.08.04 ~ 20 노리플라이 소극장 장기 콘서트 ‘우리들’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/241</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/241</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622539882409_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.08.04 ~ 06 / 08.11 ~ 13 멜로망스 소극장 장기 콘서트 'Moonlight 1악장']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/240</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/240</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622539741997_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.07.08 ~ 09 데이브레이크 ‘SUMMER MADNESS 2017 : THE RED’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/239</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/239</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622539316732_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.06.24 ~ 07.02 라이프 앤 타임 두 번째 전국 투어 ‘CHART : the tour’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/238</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/238</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622537646606_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.06.24 ~ 25 THE SOLUTIONS unplugged concert ‘SILENCE’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/237</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/237</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622537559938_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.06.23 장희원 + 조소정 콘서트 ‘A Preview’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/236</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/236</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622537467482_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.06.11 랄라스윗 콘서트 ‘Wonderland’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/235</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/235</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622537115971_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.05.03 ~ 05 라이프 앤 타임, 솔루션스, 칵스 콘서트 ‘PLAY LOUD’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/234</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/234</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622537014766_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.04.08 ~ 09 노리플라이 콘서트 ‘beautiful’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/233</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/233</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536904833_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.03.10 ~ 26 소란 콘서트 ‘Perfect Day 5’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/232</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/232</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536844791_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.03.05 라이프 앤 타임 콘서트 ‘CHART : the show’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/231</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/231</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536754996_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.03.03 ~ 04 멜로망스 콘서트 '어느새, 봄']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/230</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/230</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536589870_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.02.25 THE SOLUTIONS concert ‘THE LAB #1 : CHEMISTRY’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/229</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/229</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536549448_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017.01.07 이지형 ‘신년의 밤’]]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/228</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/228</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536461768_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016.12.24 ~ 25 쏜애플 콘서트 '서울']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/227</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/227</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536205382_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016.12.19 멜로망스 콘서트 'The Winter's Tale']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/226</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/226</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622536035810_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016.12.16 ~ 17 노리플라이 콘서트 '여정']]></title>
+            <link>https://mpmgmusic.com/boardPost/127606/225</link>
+            <guid>https://mpmgmusic.com/boardPost/127606/225</guid>
+            <pubDate>Tue, 21 Dec 2021 09:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[관리자]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/157578/post/image_1622535856477_300.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
